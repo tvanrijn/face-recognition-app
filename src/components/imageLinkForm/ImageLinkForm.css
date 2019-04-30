@@ -1,0 +1,12 @@
+.form {
+    width: 700px;
+    background:
+        linear-gradient(135deg, #9185a8 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+        linear-gradient(225deg, #9185a8 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#9185a8;
+    background-size: 64px 128px;
+}
+
+input {
+    margin-right: 8px;
+}
