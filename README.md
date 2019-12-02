@@ -4,4 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Create an account, log in, enter an image url and this app will detect any faces in your image. 
 
+For example, use url: https://doschdesign.com/images2/Red-DVI-People-Walking.jpg
+
 Enjoy!
